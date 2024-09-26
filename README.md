@@ -1,9 +1,9 @@
-<h2 align=center>Olá, me chamo Mateus Silva Souza!</h2>
+<h2 align=center>Olá, me chamo Mateus Souza!</h2>
 
-<p>Atualmente cursando engenharia da computação na Universidade Veiga de Almeida (UVA). </p>
+<p>Formado em Engenharia da Computação, atuo como Desenvolvimento FullStack com foco em React/NodeJs.</p>
 
 - 🔭 Eu trabalho com Suporte e Desenvolvimento Front-End!
-- 🌱 Estudando ReactJS e TypeScript ...
+- 🌱 Estudando DevOps e Engenharia de Dados ...
 
 <div align="center">
   <a href="https://github.com/mateussilvasouza">
