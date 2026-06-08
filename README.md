@@ -64,11 +64,15 @@ Atualmente na **Galgtec**, desenvolvendo sistemas para o setor jurídico. Antes,
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateussilvasouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateussilvasouza&layout=compact&theme=tokyonight&langs_count=6)
-
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateussilvasouza&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateussilvasouza&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
 </div>
 
 ---
